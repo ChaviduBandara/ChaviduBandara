@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **chavindu605@gmail.com**
+- 📫 How to reach me **chavidunb@gmail.com**
 
 - ⚡ Fun fact:  **How do you organize a space party? You 'planet'!**
 
