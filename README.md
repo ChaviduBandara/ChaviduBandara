@@ -1,6 +1,6 @@
-# Hi, I'm Chavidu 👋
+# Hey there! 👋
 
-I'm a final year software engineering student based in Sri Lanka.
+I'm Chavidu, a final year software engineering student based in Sri Lanka.
 
 I mostly work on web development projects - React, JavaScript, TypeScript, Python, FastAPI, and a bit of UI design.
 
