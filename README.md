@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hi! 👋
 
 I'm Chavidu, a final year software engineering student based in Sri Lanka.
 
